@@ -2,7 +2,7 @@
 <h3 align="center"> Android Dev | Into Tech | Growing 🚀</h3>
 
 <p align="center">
-  <img src="https://github.com/amirchi007/amirchi007/blob/output/only-svg/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/amirchi007/amirchi007/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
