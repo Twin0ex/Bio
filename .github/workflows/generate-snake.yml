@@ -9,13 +9,14 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: amirchi007
-          outputs: |
-            ./github-contribution-grid-snake.svg
-            ./github-contribution-grid-snake.gif
-
+     - uses: Platane/snk@v3
+  with:
+    github_user_name: amirchi007
+    outputs: |
+      ./github-contribution-grid-snake.svg
+      ./github-contribution-grid-snake.gif
+    color_snake: '#00FF00'         # سبز هکری فسفری
+    color_dots: '#CCCCCC,#00FF00,#CCCCCC,#00FF00,#CCCCCC'  # ترکیب خاکستری و سبز
       - name: Push to GitHub
         uses: crazy-max/ghaction-github-pages@v3
         with:
