@@ -36,10 +36,6 @@ Success for me isn't just about what I do — it's about who I become while doin
   <img src="https://github.com/amirchi007/amirchi007/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/amirchi007/amirchi007/blob/output/docker/github-contribution-grid-snake.gif" />
-</p>
-
 ---
 
 ## 🛠 Skills:
@@ -60,7 +56,7 @@ Success for me isn't just about what I do — it's about who I become while doin
 ## 📱 My Social :
 
 <p align="center">
-  <a href="https://t.me/amirchi007"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/amirchi009"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="mailto:amirchi007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
