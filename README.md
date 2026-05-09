@@ -1,5 +1,5 @@
-<h1 align="center">Hey, I'm Amir Mohammad 👋</h1>
-<h3 align="center"> Android Dev | Into Tech | Growing 🚀</h3>
+<h1 align="center">Hey, I'm Amir Mohammad </h1>
+<h3 align="center"> love HACK | Into Tech | Growing </h3>
 
 <p align="center">
   <img src="https://github.com/amirchi007/amirchi007/blob/output/github-contribution-grid-snake.svg" />
