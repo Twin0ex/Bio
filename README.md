@@ -30,15 +30,15 @@ Success for me isn't just about what I do — it's about who I become while doin
   <img src="https://streak-stats.demolab.com/?user=amirchi007&theme=radical" alt="amirchi007 streak stats" />
 </p>
 
----
+<!-- ---
 
-<!-- <p align="center">
+ <p align="center">
   <img src="https://github.com/amirchi007/amirchi007/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p> -->
+</p>
 
 ---
 
-<!-- ## 🛠 Skills: -->
+## 🛠 Skills: 
 
 <!-- <div align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
