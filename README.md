@@ -18,13 +18,13 @@ Success for me isn't just about what I do — it's about who I become while doin
 
 ## 📊 ‌My GitHub:
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amirchi007&show_icons=true&theme=radical" alt="amirchi007 github stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirchi007&layout=compact&theme=radical" alt="amirchi007 top langs" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=amirchi007&theme=radical" alt="amirchi007 streak stats" />
@@ -32,15 +32,15 @@ Success for me isn't just about what I do — it's about who I become while doin
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/amirchi007/amirchi007/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+</p> -->
 
 ---
 
-## 🛠 Skills:
+<!-- ## 🛠 Skills: -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=google&logoColor=white" />
@@ -49,7 +49,7 @@ Success for me isn't just about what I do — it's about who I become while doin
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
+</div> -->
 
 ---
 
