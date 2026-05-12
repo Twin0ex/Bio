@@ -16,6 +16,7 @@ Mobile Security guy, hunting Android bugs.
 Also a Linux user.
 
 Learning as I go, building my own methodology.
+
 ---
 
 ## 📊 ‌My GitHub:
