@@ -36,7 +36,7 @@ Learning as I go, building my own methodology.
 
 ## 🛠 Skills:
 
-<div align="center">
+<!-- <div align="center"> -->
 
 ### 🔧 Core Tools & Proxies
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
