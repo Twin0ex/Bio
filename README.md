@@ -2,7 +2,7 @@
 <h3 align="center"> love HACK | Into Tech | Growing </h3>
 
 <p align="center">
-  <img src="https://github.com/Twin0ex/Bio/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Twin0ex/Bio/output/github-contribution-grid-snake.svg" />
   <!-- <img src="https://github.com/amirchi007/amirchi007/blob/output/github-contribution-grid-snake.svg" /> -->
   
 </p>
@@ -30,7 +30,7 @@ Learning as I go, building my own methodology.
 </p> -->
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Twin0ex&theme=radical" alt="amirchi007 streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=Twin0ex&theme=radical" alt="Twin0ex streak stats" />
   <!-- <img src="https://streak-stats.demolab.com/?user=amirchi007&theme=radical" alt="amirchi007 streak stats" /> -->
 </p>
 
